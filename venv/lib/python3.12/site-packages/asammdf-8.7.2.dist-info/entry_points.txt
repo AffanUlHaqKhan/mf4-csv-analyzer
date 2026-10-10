@@ -1,0 +1,3 @@
+[console_scripts]
+asammdf = asammdf.app.asammdfgui:main [gui]
+

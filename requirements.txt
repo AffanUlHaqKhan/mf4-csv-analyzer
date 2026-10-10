@@ -1,0 +1,7 @@
+# CAN Signal Decoder Requirements
+
+# For CSV decoder (can_decoder.py) - no external dependencies required
+# Uses only Python standard library
+
+# For MF4 decoder (mf4_decoder.py) - requires asammdf
+asammdf>=7.0.0
